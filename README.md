@@ -20,7 +20,7 @@ olarak belirlenmiştir.
 
 ---
 
-#Kullanılan Yapay Zekâ Algoritmaları
+# Kullanılan Yapay Zekâ Algoritmaları
 
 Projede birden fazla rota bulma algoritması kullanılmaktadır.
 
@@ -35,7 +35,7 @@ Projede birden fazla rota bulma algoritması kullanılmaktadır.
 
 ---
 
-#Simülasyon Özellikleri
+# Simülasyon Özellikleri
 
 ✅ Harita üzerinde araç hareketi  
 ✅ Gerçek zamanlı rota oluşturma  
@@ -53,7 +53,7 @@ Projede birden fazla rota bulma algoritması kullanılmaktadır.
 
 ---
 
-#Engel ve Trafik Sistemi
+# Engel ve Trafik Sistemi
 
 Projede araç hareketlerini etkileyen farklı çevresel faktörler bulunmaktadır.
 
@@ -69,7 +69,7 @@ Bu sistemler sayesinde algoritmaların farklı koşullar altında nasıl davrand
 
 ---
 
-#Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 
 | Teknoloji | Kullanım Amacı |
 |---|---|
@@ -81,7 +81,7 @@ Bu sistemler sayesinde algoritmaların farklı koşullar altında nasıl davrand
 
 ---
 
-#Proje Yapısı
+# Proje Yapısı
 
 ```text
 OtonomAracSimulasyonuYZ
@@ -109,7 +109,7 @@ OtonomAracSimulasyonuYZ
 
 ---
 
-# 📌 Dosya Açıklamaları
+# Dosya Açıklamaları
 
 | Dosya | Görevi |
 |---|---|
@@ -127,7 +127,7 @@ OtonomAracSimulasyonuYZ
 
 ---
 
-# 🎮 Simülasyon Mantığı
+# Simülasyon Mantığı
 
 Araçlar harita üzerinde belirlenen başlangıç noktasından hedef noktaya ulaşmaya çalışmaktadır.
 
@@ -195,6 +195,6 @@ görsel olarak analiz edilebilmektedir.
 
 ---
 
-# ⭐ Not
+# Not
 
 Bu proje eğitim amacıyla geliştirilmiş yapay zekâ ve rota bulma simülasyonu projesidir.
